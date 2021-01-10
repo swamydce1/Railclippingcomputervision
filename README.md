@@ -38,6 +38,12 @@ Timer on step no. 03 was fine tuned to reach travel distance.
 Activate No.02 actuator to increase hydraulic pressure to perform Clipping or Unclipping operation as required.
 once operation complete in step 5, step 4 and step 3 were carried out in reverse to lift the clipping machine back to travel position
 Once step 6 complete (limit switch) engage the H bridge to engage DC motor forward motion.
+
+#### Special Thanks to Dr. Robail Yasrab for his guidance in 2018, without him, this wouldnt have been possible
+https://www.linkedin.com/in/dr-robail-yasrab-578a0127/
+
 please refer attached photos and videos and feel free to message me here for any queries swamy.dce@gmail.com
+
+thanks,
 
 
