@@ -39,7 +39,7 @@ On detecting a clip, the process flow in programme in Python were:
 6. Once operation complete in step 5, step 4 and step 3 were carried out in reverse to lift the clipping machine back to travel position
 7. Once step 6 complete (limit switch) engage the H bridge to engage DC motor forward motion.
 
-#### Special Thanks to Dr. Robail Yasrab for his guidance in 2018, without him, this wouldnt have been possible
+#### Special Thanks to Dr. Robail Yasrab for his guidance in 2018, without him, this wouldn't have been possible
 >https://www.linkedin.com/in/dr-robail-yasrab-578a0127/
 
 please refer attached photos and videos and feel free to message me here for any queries swamy.dce@gmail.com
