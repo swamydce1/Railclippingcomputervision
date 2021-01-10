@@ -1,4 +1,4 @@
-Railclippingcomputervision
+*Railclippingcomputervision
 Raspberry Pi + intel movidius powered automatic clipping machine code for controlling Cembre Fastclip Clipping
 
 this project was done in 2018 December and testing completed in April 2019. The aim of the project was to:
