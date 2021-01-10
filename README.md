@@ -5,7 +5,7 @@ this project was done in 2018 December and testing completed in April 2019.
 The aim of the project was to:
 
 1. train a CNN custom object detection model (Mobilenet) with library of circa 1000 real site Fasclip photos.
-2. Fully automate Cembre Fast Clip type clipping machine using a CSI Camera input into Raspberry pi with Intel Movidius first gen. chip acting as GPU.
+2. Fully automate Cembre Fast Clip type clipping machine using a CSI Camera input into Raspberry pi with Intel Movidius NCS first gen. chip acting as GPU.
 
 There were 2 x actuators installed on the retrofitted Clipping machine
  - No.01 24v DC actuator was to give up and down motion between the clips as done by human operator
