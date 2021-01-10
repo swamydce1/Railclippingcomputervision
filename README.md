@@ -17,6 +17,9 @@ _This project was done in 2018 December and testing completed in April 2019. The
 ### Auto Clipping Machine Assembley -FRONT - DC Drive Motors
 <img src="images/testrigmarkup2.JPG" width="500" >
 
+### Video Repositories
+[Gathering data - track clips] (https://youtu.be/BeFUDPnRAoE)
+
 There were 2 x actuators installed on the retrofitted Clipping machine
 No.01 24v DC actuator was to give up and down motion between the clips as done by human operator
 No.02 24v DC actuator was to give the 4-stroke engine throttle control to control the pressure going to the hydraulic system.
