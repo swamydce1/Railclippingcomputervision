@@ -12,7 +12,7 @@ _This project was done in 2018 December and testing completed in April 2019. The
 <img src="images/IMG-20180711-WA0001.jpg" width="500" >
 
 ### Clipping Machine Assembley - Actuators and Camera Location
-<img src="images/testrigmarkup1.jpg" width="500" >
+<img src="images/testrigmarkup1.JPG" width="500" >
 
 
 There were 2 x actuators installed on the retrofitted Clipping machine
