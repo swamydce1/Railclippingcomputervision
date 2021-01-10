@@ -11,9 +11,11 @@ _This project was done in 2018 December and testing completed in April 2019. The
 ### Training Data library and Annotations
 <img src="images/IMG-20180711-WA0001.jpg" width="500" >
 
-### Clipping Machine Assembley - Actuators and Camera Location
+### Auto Clipping Machine Assembley -BACK -  Actuators and Camera Location
 <img src="images/testrigmarkup1.JPG" width="500" >
 
+### Auto Clipping Machine Assembley -FRONT - DC Drive Motors
+<img src="images/testrigmarkup2.JPG" width="500" >
 
 There were 2 x actuators installed on the retrofitted Clipping machine
 No.01 24v DC actuator was to give up and down motion between the clips as done by human operator
