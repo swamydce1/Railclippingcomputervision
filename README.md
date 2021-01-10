@@ -18,7 +18,11 @@ _This project was done in 2018 December and testing completed in April 2019. The
 <img src="images/testrigmarkup2.JPG" width="500" >
 
 ### Video Repositories
-[Gathering data - track clips](https://youtu.be/BeFUDPnRAoE)
+[**1. Gathering data - track clips**](https://youtu.be/IrTTT1wQgpsE)
+
+[**2. De-bugging bot with iterative camera positions**](https://youtu.be/BeFUDPnRAoE)
+
+[**3. Voila ! Fully Automated Clipping machine using CSI Camera - 2019-April-01**](https://youtu.be/jqsyzdLeAmE)
 
 There were 2 x actuators installed on the retrofitted Clipping machine
 No.01 24v DC actuator was to give up and down motion between the clips as done by human operator
