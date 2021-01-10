@@ -24,6 +24,6 @@ On detecting a clip, the process flow in programme in Python were:
 7. Once step 6 complete (limit switch) engage the H bridge to engage DC motor forward motion.
 
 please refer attached photos and videos and feel free to message me here for any queries
-swamy.dce@gmail.com
+swamydce@gmail.com
 
 
