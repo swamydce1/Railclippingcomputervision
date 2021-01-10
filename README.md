@@ -25,22 +25,22 @@ _This project was done in 2018 December and testing completed in April 2019. The
 [**3. Voila ! Fully Automated Clipping machine using CSI Camera - 2019-April-01**](https://youtu.be/jqsyzdLeAmE)
 
 There were 2 x actuators installed on the retrofitted Clipping machine
-No.01 24v DC actuator was to give up and down motion between the clips as done by human operator
-No.02 24v DC actuator was to give the 4-stroke engine throttle control to control the pressure going to the hydraulic system.
-A custom 24V DC motor rail traction assembley was fabricated to provide front back motion between the clips.
+1. No.01 24v DC actuator was to give up and down motion between the clips as done by human operator
+2. No.02 24v DC actuator was to give the 4-stroke engine throttle control to control the pressure going to the hydraulic system.
+3. A custom 24V DC motor rail traction assembley was fabricated to provide front back motion between the clips.
 
 On detecting a clip, the process flow in programme in Python were:
 
-Detect Clip in centre of detection frame box (Fastclip/ with centre on housing).
-stop the forward/ backward motion (GPIO output to H Bridge)
-Activate No.01 Actuator to lower the clipping RAMS on top of the housing.
-Timer on step no. 03 was fine tuned to reach travel distance.
-Activate No.02 actuator to increase hydraulic pressure to perform Clipping or Unclipping operation as required.
-once operation complete in step 5, step 4 and step 3 were carried out in reverse to lift the clipping machine back to travel position
-Once step 6 complete (limit switch) engage the H bridge to engage DC motor forward motion.
+1. Detect Clip in centre of detection frame box (Fastclip/ with centre on housing).
+2. Stop the forward/ backward motion (GPIO output to H Bridge)
+3. Activate No.01 Actuator to lower the clipping RAMS on top of the housing.
+4. Timer on step no. 03 was fine tuned to reach travel distance.
+5. Activate No.02 actuator to increase hydraulic pressure to perform Clipping or Unclipping operation as required.
+6. Once operation complete in step 5, step 4 and step 3 were carried out in reverse to lift the clipping machine back to travel position
+7. Once step 6 complete (limit switch) engage the H bridge to engage DC motor forward motion.
 
 #### Special Thanks to Dr. Robail Yasrab for his guidance in 2018, without him, this wouldnt have been possible
-https://www.linkedin.com/in/dr-robail-yasrab-578a0127/
+>https://www.linkedin.com/in/dr-robail-yasrab-578a0127/
 
 please refer attached photos and videos and feel free to message me here for any queries swamy.dce@gmail.com
 
