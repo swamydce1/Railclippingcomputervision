@@ -1,6 +1,6 @@
-# Railclippingcomputervision
+# Automated Rail Clipping Machine Using Computer Vision
 
-## Raspberry Pi + intel movidius powered automatic clipping machine code for controlling Cembre Fastclip Clipping
+## Raspberry Pi + Intel Movidius powered Using Mobilenet Custom Object Detection model
 
 _This project was done in 2018 December and testing completed in April 2019. The aim of the project was to:_ 
 
