@@ -18,11 +18,11 @@ _This project was done in 2018 December and testing completed in April 2019. The
 <img src="images/testrigmarkup2.JPG" width="500" >
 
 ### Video Repositories
-[**1. Gathering data - track clips**](https://youtu.be/S9v74XFaX7c)
+[**1. Gathering data - track clips**](https://youtu.be/A-mPCbmTxfE)
 
-[**2. De-bugging bot with iterative camera positions**](https://youtu.be/3ozCs6q6ZBg)
+[**2. De-bugging bot with iterative camera positions**](https://youtu.be/IfUMitkC7s4)
 
-[**3. Voila ! Fully Automated Clipping machine using CSI Camera - 2019-April-01**](https://youtu.be/3ozCs6q6ZBg)
+[**3. Voila ! Fully Automated Clipping machine using CSI Camera - 2019-April-01**](https://youtu.be/TpVamURulaU)
 
 There were 2 x actuators installed on the retrofitted Clipping machine
 1. No.01 24v DC actuator was to give up and down motion between the clips as done by human operator
@@ -42,8 +42,8 @@ On detecting a clip, the process flow in programme in Python were:
 #### Special Thanks to Dr. Robail Yasrab for his guidance in 2018, without him, this wouldn't have been possible
 >https://www.linkedin.com/in/dr-robail-yasrab-578a0127/
 
-please refer attached photos and videos and feel free to message me here for any queries swamy.dce@gmail.com
+please refer attached photos and videos and feel free to message me here for any queries swamydce@gmail.com
 
 thanks,
-
+Swamy Nagarajan
 
