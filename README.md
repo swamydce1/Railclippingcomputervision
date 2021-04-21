@@ -42,8 +42,4 @@ On detecting a clip, the process flow in programme in Python were:
 #### Special Thanks to Dr. Robail Yasrab for his guidance in 2018, without him, this wouldn't have been possible
 >https://www.linkedin.com/in/dr-robail-yasrab-578a0127/
 
-please refer attached photos and videos and feel free to message me here for any queries swamydce@gmail.com
-
-thanks,
-Swamy Nagarajan
 
