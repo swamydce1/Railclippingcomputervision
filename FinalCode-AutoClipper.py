@@ -22,8 +22,7 @@ Act1 = 13    # Lift
 
 Act2 = 15    # Lower
 
-Act3 = 11    # Enable
-
+Act3 = 12    # Enable
 
 Hyd1 = 33    # Clip
 

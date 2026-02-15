@@ -42,4 +42,6 @@ On detecting a clip, the process flow in programme in Python were:
 #### Special Thanks to Dr. Robail Yasrab for his guidance in 2018, without him, this wouldn't have been possible
 >https://www.linkedin.com/in/dr-robail-yasrab-578a0127/
 
+Note : this script/repo doesn't work on Nvidia jetson platforms out of the box. ¬¬ end of message¬¬ 
+
 
