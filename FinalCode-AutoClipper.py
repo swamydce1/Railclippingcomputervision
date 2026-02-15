@@ -5,6 +5,7 @@ from time import sleep
 import time
 import RPi.GPIO as GPIO
 
+# Note : this script/repo doesn't work on Nvidia jetson platforms out of the box.
 
 # import the necessary packages
 from mvnc import mvncapi as mvnc
